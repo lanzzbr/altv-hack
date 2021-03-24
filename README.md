@@ -4,7 +4,7 @@ Multihack for alt:V Multiplayer.
 
 ## Compile
 
-Clone this repository using `git clone --recurse-submodules -j8`
+Clone this repository using `git clone --recurse-submodules -j8 https://github.com/Keiichi32/altv-hack.git`
 
 Navigate to the cloned folder and open `altv-hack.sln` with Visual Studio, and build it in Release/x64.
 
@@ -15,7 +15,7 @@ Inject the DLL in the main menu after GTA5 loaded. You should use the **exec**, 
 ## Features
 
 * JavaScript executor
-* Script dumper
+* Client-side file dumper
 * Hardware ID spoofer
 * Server-side currentWeapon block
 
