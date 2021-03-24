@@ -1,0 +1,6 @@
+[submodule "cpp-sdk"]
+	path = cpp-sdk
+	url = https://github.com/altmp/cpp-sdk.git
+[submodule "minhook"]
+	path = minhook
+	url = https://github.com/TsudaKageyu/minhook.git
